@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "736527093402",
+    "project_id": "gps-map-location-9a7a0",
+    "storage_bucket": "gps-map-location-9a7a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736527093402:android:0df041152cf5361cc5d923",
+        "android_client_info": {
+          "package_name": "com.example.gpsmaplocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736527093402-61fmnrgtge9ufrl1076beh6r293r99ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYb8zlFXPso_WMmRzxWxZDESZU4VR1Nwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736527093402-61fmnrgtge9ufrl1076beh6r293r99ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
